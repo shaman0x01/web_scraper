@@ -1,6 +1,6 @@
 # Web Scraper Application
 ## About Application
-Web Scraper is console based application which can be used for scraping web page and counting the number of img and leaf p tag
+Web Scraper is console based application which can be used for scraping web pages and counting the number of img and leaf p tags
  
  ## Installation
  - Application can be installed using following command from console:
